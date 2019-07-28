@@ -1,2 +1,2 @@
 # Banana-mail
-This is me vot
+This is me bot
